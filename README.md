@@ -35,3 +35,9 @@
 1. How to marginalize a factor?
 1. What to perform factor reduction?
 1. Why are factors useful? (1. fundamental building blocks for defining distributions in high-dimensional spaces 2. set of basic operations for manipulating these probability distributions)
+
+### Bayesian Network fundamentals
+
+#### Semantics and factorization
+
+1. 
