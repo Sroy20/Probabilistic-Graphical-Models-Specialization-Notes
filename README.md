@@ -58,3 +58,28 @@
 1. When and how can influence flow in graph when no node is observed? Which case doesn't lead to any influence flow?
 1. When one or more node/nodes is/are observed, how does the above scenario change?
 1. What is an active trail in a graph when some nodes are observed?
+
+### Bayesian Network: Independencies
+
+#### Conditional independence
+
+1. What is independence?
+1. What is conditional independence? (Note that conditioning can both gain and lose independence)
+
+#### Independence in Bayesian Networks
+
+1. Why are independence and factorization related to each other?
+1. Explain the notion of d-separated nodes in a graph?
+1. What are I-maps?
+1. How are independencies, I-maps, and distributions related?
+1. What are two equivalent views of a graph structure?
+
+#### Naive Bayes
+
+1. What is the assumption of Naive Bayes?
+1. What is the Bernoulli Naive Bayes model? (Features = number of words in dictionary = encoding absence/presence)
+1. What is the Multinomial Naive Bayes model? (Features = number of words in the document. independence assumption is that pdf at each word position is same)
+1. Where is it useful? (scenario where there are many weakly related features)
+
+
+
