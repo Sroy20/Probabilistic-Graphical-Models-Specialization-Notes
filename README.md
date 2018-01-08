@@ -113,6 +113,14 @@
 
 1. What is a HMM? Contrast with DBN? (HMMs are sub-class of DBN)
 
+#### Plate Models
+
+1. What are plate models?
+1. What is explicit parameter sharing?
+1. What are nested plates? What are overlapping plates?
+1. What is collective inference?
+1. 
+
 
 
 
