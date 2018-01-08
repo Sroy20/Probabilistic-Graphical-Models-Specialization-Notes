@@ -40,4 +40,21 @@
 
 #### Semantics and factorization
 
-1. 
+1. What are steps in solving a problem? (1. Define a graph based on the problem at hand. 2. Define CPDs at each node)
+1. What is a Bayesian network? (A DAG whose nodes represent r.v.s and for each node there is CPD defining its dependency on parents)
+1. What is the chain rule formulae for BN?
+1. Prove that Bayesian Network is a legal probability distribution.
+
+#### Reasoning pattern
+
+1. What is causal reasoning? (reasoning goes from top to bottom in the graph)
+1. What is evedential reasoning? (reasoning goes from bottom to top in the graph)
+1. What is intercausal reasoming? (reasoning happens in a lateral direction)
+1. How does nodes that have no lateral connectons still related in an inter-causal way?
+
+#### Flow of reasoning patterns
+
+1. What is an active trail in a graph when nothing is observed?
+1. When and how can influence flow in graph when no node is observed? Which case doesn't lead to any influence flow?
+1. When one or more node/nodes is/are observed, how does the above scenario change?
+1. What is an active trail in a graph when some nodes are observed?
