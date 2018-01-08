@@ -1,6 +1,6 @@
 # Course 1: Probabilistic Graphical Models 1: Representation
 
-## Week 1
+## Week 1: Introduction and Overview
 
 ### Introduction and Overview
 
@@ -80,6 +80,16 @@
 1. What is the Bernoulli Naive Bayes model? (Features = number of words in dictionary = encoding absence/presence)
 1. What is the Multinomial Naive Bayes model? (Features = number of words in the document. independence assumption is that pdf at each word position is same)
 1. Where is it useful? (scenario where there are many weakly related features)
+
+### Bayesian Networks - Knowledge Engineering
+
+#### Application - Medical diagnosis
+
+1. Why don't we ever assign zero probabilities to an event?
+
+## Week 2: Template Models for Bayesian Networks
+
+
 
 
 
