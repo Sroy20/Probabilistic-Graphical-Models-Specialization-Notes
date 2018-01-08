@@ -89,6 +89,34 @@
 
 ## Week 2: Template Models for Bayesian Networks
 
+### Template Models
+
+#### Overview of template models
+
+1. Why are template models required? (Structure and parameter sharing for different model and within model)
+1. What are Dynamic Bayesian networks? (for temporal data)
+1. What are object relational models? (Directed - plate models. And undirected.)
+
+#### Temporal Models - DBNs
+
+1. What is the Markov assumption? Why is it needed?
+1. Is the Markov assumption too strong? If yes, how to handle it? (for robots don't capture velocity. Such information can be included in the state to make the situation better. Otherwise, add dependencies back in time)
+1. What is a semi-Markov model?
+1. How to bound the number of distributions? (Time-invariance)
+1. When doesn't time-invariance work? How to handle this situation?
+1. What are intra-time slice and inter-time slice edges? What are persistence edges?
+1. What is a 2-time slice Bayesian network?
+1. What is a Dynamic Bayesian network?
+1. What is ground or unrolled network?
+
+#### Temporal Models - HMMs
+
+1. What is a HMM? Contrast with DBN? (HMMs are sub-class of DBN)
+
+
+
+
+
 
 
 
